@@ -99,3 +99,5 @@ coverage/
 .coverage.*
 coverage.xml
 *.cover 
+feature_store/
+*.parquet
